@@ -1,5 +1,4 @@
 import SwiftUI
-import AudioToolbox
 import UserNotifications
 
 struct ContentView: View {
