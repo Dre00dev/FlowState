@@ -1,7 +1,8 @@
-<p align="center">#FocusState(Formerly FlowState)</p>
-<p align="center">Pomodoro Timer released on app store</p>
+<h1 align="center">FocusState (Formerly FlowState)</h1>
 
-- The app has usernotifications and works in the background as well.  
+## Pomodoro Timer released on app store
+
+- The app has user notifications and works in the background as well.  
 - There is a premium version of the app if the user wants to adjust the timers.
 - Added a contact developers and refresh purchases button for the app store release.
 
