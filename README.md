@@ -1,5 +1,7 @@
+<div align="center">
 # FocusState(Formerly FlowState)
 Pomodoro Timer released on app store
+ </div>
 
 - The app has usernotifications and works in the background as well.  
 - There is a premium version of the app if the user wants to adjust the timers.
