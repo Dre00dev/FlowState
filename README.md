@@ -1,5 +1,5 @@
 <h1 align="center">FocusState (Formerly FlowState)</h1>
-## Pomodoro Timer released on app store
+Pomodoro Timer released on app store
 <p align="center">
   <img src="https://github.com/Dre00dev/FlowState/assets/109707956/ad9bd4d9-5fbc-4a4c-8945-1c125a40e99e" width="400"/>
 </p>
